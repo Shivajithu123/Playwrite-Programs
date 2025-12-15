@@ -11,6 +11,6 @@ package com.mycompany.playwritenew;
 public class Playwritenew {
 
     public static void main(String[] args) {
-        System.out.println("Hello World python!");
+        System.out.println("Hello World  java,python!");
     }
 }
